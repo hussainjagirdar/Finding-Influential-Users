@@ -1,0 +1,242 @@
+All values are of top [50,100,150,200,250,300] users
+
+Standard Deviation 1
+Window size 0
+Ranking: Count at any given point
+[1173, 1019, 936, 997, 915, 899]
+
+Standard Deviation 1
+Window size 1
+Ranking: Count at any given point
+[1076, 956, 966, 954, 1000, 975]
+
+Standard Deviation 1
+Window size 2
+Ranking: Count at any given point
+[1217, 999, 999, 953, 981, 959]
+
+Standard Deviation 1
+Window size 3
+Ranking: Count at any given point
+[1059, 1010, 997, 1021, 980, 925]
+
+Standard Deviation 1
+Window size 0
+Ranking: Count at only peak time
+[1044, 965, 870, 731, 770, 725]
+
+Standard Deviation 1
+Window size 1
+Ranking: Count at only peak time
+[1033, 963, 979, 878, 816, 824]
+
+Standard Deviation 1
+Window size 2
+Ranking: Count at only peak time
+[1164, 962, 870, 932, 840, 786]
+
+Standard Deviation 1
+Window size 3
+Ranking: Count at only peak time
+[1055, 1005, 1017, 966, 953, 830]
+
+Standard Deviation 1
+Window size 0
+Ranking: Random
+[281, 314, 291, 295, 320, 371]
+
+Standard Deviation 1
+Window size 1
+Ranking: Random
+[240, 228, 221, 272, 250, 316]
+
+Standard Deviation 1
+Window size 2
+Ranking: Random
+[393, 355, 404, 429, 343, 363]
+
+Standard Deviation 1
+Window size 3
+Ranking: Random
+[329, 307, 317, 293, 283, 294]
+
+Standard Deviation 2
+Window size 0
+Ranking: Count at any given point
+[1167, 923, 880, 713, 572, 519]
+
+Standard Deviation 2
+Window size 1
+Ranking: Count at any given point
+[1012, 1004, 987, 906, 837, 847]
+
+Standard Deviation 2
+Window size 2
+Ranking: Count at any given point
+[1098, 1006, 962, 946, 877, 845]
+
+Standard Deviation 2
+Window size 3
+Ranking: Count at any given point
+[1118, 1066, 992, 961, 909, 905]
+
+Standard Deviation 2
+Window size 0
+Ranking: Count at only peak time
+[793, 488, 519, 467, 429, 400]
+
+Standard Deviation 2
+Window size 1
+Ranking: Count at only peak time
+[714, 734, 610, 491, 526, 461]
+
+Standard Deviation 2
+Window size 2
+Ranking: Count at only peak time
+[943, 783, 740, 718, 624, 532]
+
+Standard Deviation 2
+Window size 3
+Ranking: Count at only peak time
+[990, 864, 852, 791, 762, 670]
+
+Standard Deviation 2
+Window size 0
+Ranking: Random
+[356, 397, 393, 320, 397, 367]
+
+Standard Deviation 2
+Window size 1
+Ranking: Random
+[613, 511, 415, 387, 377, 399]
+
+Standard Deviation 2
+Window size 2
+Ranking: Random
+[323, 259, 311, 291, 296, 309]
+
+Standard Deviation 2
+Window size 3
+Ranking: Random
+[287, 304, 323, 353, 360, 323]
+
+Standard Deviation 3
+Window size 0
+Ranking: Count at any given point
+[1010, 627, 407, 351, 275, 235]
+
+Standard Deviation 3
+Window size 1
+Ranking: Count at any given point
+[943, 864, 659, 551, 491, 402]
+
+Standard Deviation 3
+Window size 2
+Ranking: Count at any given point
+[1022, 877, 776, 686, 603, 519]
+
+Standard Deviation 3
+Window size 3
+Ranking: Count at any given point
+[1013, 1040, 841, 717, 725, 637]
+
+Standard Deviation 3
+Window size 0
+Ranking: Count at only peak time
+[287, 323, 406, 357, 264, 206]
+
+Standard Deviation 3
+Window size 1
+Ranking: Count at only peak time
+[609, 420, 404, 302, 320, 325]
+
+Standard Deviation 3
+Window size 2
+Ranking: Count at only peak time
+[812, 555, 358, 355, 350, 299]
+
+Standard Deviation 3
+Window size 3
+Ranking: Count at only peak time
+[707, 651, 435, 397, 414, 382]
+
+Standard Deviation 3
+Window size 0
+Ranking: Random
+[395, 387, 442, 367, 279, 227]
+
+Standard Deviation 3
+Window size 1
+Ranking: Random
+[214, 410, 327, 252, 293, 322]
+
+Standard Deviation 3
+Window size 2
+Ranking: Random
+[267, 403, 399, 387, 382, 340]
+
+Standard Deviation 3
+Window size 3
+Ranking: Random
+[329, 313, 268, 228, 316, 326]
+
+Standard Deviation 4
+Window size 0
+Ranking: Count at any given point
+[649, 398, 228, 202, 141, 132]
+
+Standard Deviation 4
+Window size 1
+Ranking: Count at any given point
+[695, 538, 434, 258, 261, 191]
+
+Standard Deviation 4
+Window size 2
+Ranking: Count at any given point
+[916, 760, 533, 444, 400, 323]
+
+Standard Deviation 4
+Window size 3
+Ranking: Count at any given point
+[856, 866, 680, 611, 502, 423]
+
+Standard Deviation 4
+Window size 0
+Ranking: Count at only peak time
+[286, 393, 247, 195, 164, 144]
+
+Standard Deviation 4
+Window size 1
+Ranking: Count at only peak time
+[308, 287, 267, 288, 237, 201]
+
+Standard Deviation 4
+Window size 2
+Ranking: Count at only peak time
+[502, 443, 385, 342, 372, 345]
+
+Standard Deviation 4
+Window size 3
+Ranking: Count at only peak time
+[419, 331, 303, 319, 289, 333]
+
+Standard Deviation 4
+Window size 0
+Ranking: Random
+[411, 362, 220, 198, 157, 125]
+
+Standard Deviation 4
+Window size 1
+Ranking: Random
+[238, 408, 291, 289, 240, 209]
+
+Standard Deviation 4
+Window size 2
+Ranking: Random
+[178, 319, 317, 325, 334, 287]
+
+Standard Deviation 4
+Window size 3
+Ranking: Random
+[299, 260, 237, 280, 339, 341]
+
